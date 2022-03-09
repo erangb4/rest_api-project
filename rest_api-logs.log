@@ -1,0 +1,14 @@
+2022-03-08 20:06:50,874:rest_api:18600:16716:ERROR:The user: eran tried to login with a wrong password.
+2022-03-08 20:07:50,478:rest_api:20468:6436:ERROR:The user: eran tried to login with a wrong password. blabla, blabla
+2022-03-09 11:22:28,828:rest_api:14908:15856:INFO:A customer tried to login without sending the required data(username, password)
+2022-03-09 11:23:30,052:rest_api:14908:19188:WARNING:A user tried to used a function that requires token but token is not valid.
+2022-03-09 11:25:08,696:rest_api:14908:19604:WARNING:A user tried to used a function that requires token but token is not valid.
+2022-03-09 11:25:16,603:rest_api:10692:17704:WARNING:A user tried to used a function that requires token but token is not valid.
+2022-03-09 11:25:34,403:rest_api:16656:14804:WARNING:A user tried to used a function that requires token but token is not valid.
+2022-03-09 11:28:22,851:rest_api:16656:4376:ERROR:The user: avi tried to login with a wrong password.
+2022-03-09 11:29:24,056:rest_api:16656:13500:WARNING:A user tried to used a function that requires token but token is not valid.
+2022-03-09 13:46:53,057:rest_api:16968:4600:WARNING:A user tried to used a function that requires token but token is not valid.
+2022-03-09 14:05:56,603:rest_api:4944:6880:INFO:A customer tried to login without sending the required data(username, password)
+2022-03-09 14:06:37,314:rest_api:4944:17616:ERROR:The user: bibi tried to login with a wrong password.
+2022-03-09 14:13:03,842:rest_api:8912:18708:INFO:New customer: Customer(id=7, username="robin", password="pbkdf2:sha256:260000$qe4H9BSpDMksco4U$35364c52440b644e8ee9f5071b17fb867f9ce8b44b5a9c9e39f6d5195dcd07b6", email="robin", address="rehovot"] has been created!
+2022-03-09 14:13:09,168:rest_api:8912:13720:ERROR:An anonymous tried to sign up with the username:robin but this username already exists in the db
